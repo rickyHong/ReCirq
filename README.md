@@ -1,7 +1,7 @@
 ReCirq
 ======
 
-Research using Cirq!
+Research using Cirq! -
 
 This project contains modules for running quantum computing applications
 and experiments through Cirq and Quantum Engine. By way of example, we
